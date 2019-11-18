@@ -623,8 +623,6 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProgressBar_InteractionTest
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProgressBar_TestUI", "dev\ProgressBar\TestUI\ProgressBar_TestUI.shproj", "{1A5321F3-B837-4EB6-9547-37CC70088EA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.UI.Xaml.FrameworkPackagePRI", "dev\Microsoft.UI.Xaml.FrameworkPackagePRI\Microsoft.UI.Xaml.FrameworkPackagePRI.csproj", "{9638BF0D-2AA8-4642-A9F1-790BF7FBECF2}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgressRing", "ProgressRing", "{4194505E-4848-4FC4-97D1-0BABF32A11C4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgressRing", "dev\ProgressRing\ProgressRing.vcxitems", "{64447EFA-19B4-4BF2-9D63-618635C483EC}"
